@@ -40,7 +40,7 @@
   - b) visualise the worst case scenarios
   - c) fidget and squirm, can't sit still
 
-### 9. When I meet someone new, I remeber them by
+### 9. When you meet someone new, you remember them by
   - a) what they spoke about
   - b) their looks
   - c) their mannerisms and gestures
