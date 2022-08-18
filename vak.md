@@ -55,4 +55,4 @@
   - b) printing details or writing notes
   - c) practice or imagining it being done
  
-##Count the number of a's, b's and c's you scored. Write it down somewhere
+## Count the number of a's, b's and c's you scored. Write it down somewhere
